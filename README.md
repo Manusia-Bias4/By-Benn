@@ -1,3 +1,6 @@
-# Perl
+# TCP-UDP-Flood
+Python3 TCP/UDP Flood script
 
-A group of basic DOS scripts for perl. Enjoy <3
+Usage:
+
+    python3 flood.py
